@@ -1,0 +1,28 @@
+{
+  "name": "coursera-ibm-nodejs-mongodb-error-handling",
+  "version": "1.0.0",
+  "description": "https://www.coursera.org/learn/intermediate-back-end-development-with-node-js-mongodb/",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloomy-penguin-kim/coursera-ibm-nodejs-mongodb-error-handling.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express",
+    "error-handling"
+  ],
+  "author": "kim jones",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gloomy-penguin-kim/coursera-ibm-nodejs-mongodb-error-handling/issues"
+  },
+  "homepage": "https://github.com/gloomy-penguin-kim/coursera-ibm-nodejs-mongodb-error-handling#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
